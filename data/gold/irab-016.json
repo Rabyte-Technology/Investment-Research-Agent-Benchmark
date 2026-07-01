@@ -1,0 +1,43 @@
+{
+  "id": "irab-016",
+  "facts": [
+    "Isomorphic Labs B轮(Series B): 金额 $2.1 Billion(约 £1.6bn); 领投方=Thrive Capital(Joshua Kushner); 跟投=既有股东 Alphabet(母公司)+GV(Google Ventures), 新进投资人 MGX(阿布扎比)、Temasek(新加坡淡马锡)、CapitalG(Alphabet 成长基金)、UK Sovereign AI Fund(英国主权 AI 基金); 资金用途=扩展自研 AI 药物设计引擎 IsoDDE、推进自有管线进临床、全球招聘(公司官方 PR/PR Newswire/Bloomberg, 2026-05-12)。投后估值: 官方未披露(私募惯例)。容差: 金额按 $2.1bn/£1.6bn 等价口径, 部分媒体误写 $1.2bn 以官方 $2.1bn 为准。",
+    "Isomorphic Labs 公司背景: 2021 年从 Google DeepMind 分拆成立, 总部伦敦; 联合创始人=Demis Hassabis(亦任 DeepMind CEO)与 Colin Murdoch; 技术基于 AlphaFold 3 等 DeepMind 合作的结构/相互作用预测模型; 截至披露尚未公开具体在研分子、尚未进入临床(官方 PR/Bloomberg/Sifted, 2026-05-12)。",
+    "Isomorphic Labs 融资史: 2025-03(部分媒体记 2025-05)完成首轮外部融资 $600M(首次外部融资, Thrive Capital 领投/GV 参投), 当时为公司首笔 Google 体系外资金; 计入本次 $2.1B 后累计外部融资约 $2.7B(BioSpace/Endpoints/FierceBiotech, 2026-05)。",
+    "Isomorphic Labs 药企合作(2024-01): Eli Lilly 首付 $45M、里程碑最高 $1.7B; Novartis 首付 $37.5M、里程碑最高 $1.2B; 两项均为以 AI 引擎为未披露靶点设计小分子(BioSpace/各药企公告)。",
+    "AI 制药一级市场热度量级(行业第三方测算口径): 2025 年 AI 板块吸金约 $202.3B(占全球 VC 约 50%), 医疗/biotech 占 AI 风投约 33%; 2026 Q1 AI 赋能药物发现单季约 $11B、含 19 个 $100M+ 大额轮(占该季资本约 60%); PitchBook 称 2025 年 AI-native pharma 早期融资首超非 AI-native(Crunchbase EOY 2025/PitchBook)。对标交易: Altos Labs(2022, $3B, 史上最大 biotech 轮)、Xaira Therapeutics(Series A 2024-04, $1B)、Chai Discovery(Series B 2025-12, $130M/估 $1.3B)。Isomorphic $2.1B 被 PitchBook 分析师 Ben Zercher 称「史上第二大 biotech 融资轮」(仅次 Altos)。容差: 比例/单季数为第三方测算口径, 带相对 ±。",
+    "AbCellera(Nasdaq: ABCL)ABCL635 药物属性: 药物类型=抗体药物(potential first-in-class antibody, 非小分子); 靶点=神经激肽 3 受体(Neurokinin 3 Receptor, NK3R), 临床已验证的 G 蛋白偶联受体(GPCR), 表达于下丘脑漏斗核(infundibular nucleus)KNDy 神经元; 机制=抗体阻断神经激肽 B(NKB)对 KNDy 神经元激活、调节体温; 适应症=绝经相关中重度血管舒缩症状(moderate-to-severe VMS, 即潮热 hot flashes)的非激素(non-hormonal)治疗; 为 AbCellera GPCR 平台首个进入临床的自研项目, 公司另计划拓展至肿瘤治疗相关 VMS(SEC 8-K/Q1 2026 财报新闻稿/财报电话会, 2026-05-11)。",
+    "ABCL635 Phase 1 中期安全性(试验 NCT07118891, Phase 1/2 随机/双盲/安慰剂对照): SAD 部分入组 40 名健康男性及绝经后女性、单次皮下 30mg-900mg; MAD 部分入组 16 名绝经后女性、每月 300/600mg。本次披露为 SAD 非盲数据, MAD 仍盲态/随访中。结论: 未观察到肝毒性(no observed liver toxicity), 无肝酶升高(no elevations in liver enzymes); 无严重不良事件(no SAE)、无重度 AE、无停药; TEAE 多为轻度一过性; 唯一可能信号为 900mg 队列聚集的轻度自限性头痛(管理层称难判定是否真实信号)。结论支持推进 Phase 2(SEC 8-K/财报新闻稿/transcript, 2026-05-11)。容差: 定性安全结论方向不可写反。",
+    "ABCL635 PK/给药与 Phase 2: 估计半衰期约 24 天、剂量比例性线性 PK→支持每月一次(once-monthly)皮下注射(SC), 目标产品概形为月度皮下自注射; 靶点结合验证=健康男性志愿者中观察到持续、剂量依赖性睾酮抑制(约 4 周)伴 FSH/LH 下降, 作为 NK3R 拮抗替代生物标志物。Phase 2(Part C): 约 80 名中重度 VMS 绝经后女性、2:1 随机、4 周潮热频率/严重度评估+随访; 剂量=单次 600mg 皮下负荷(近似 300mg 月度稳态暴露)、后续 300mg 月度维持; 顶线疗效数据预计 2026 Q3。AbCellera 截至 Q1 2026 末总可用流动性约 $655M(SEC 8-K/财报新闻稿/transcript, 2026-05-11)。",
+    "非激素 VMS 竞品基线(FDA 标签一手): Astellas fezolinetant(Veozah, NK3R 小分子拮抗剂, 口服每日 45mg): 2024-12-16 获 FDA Boxed Warning(肝毒性), 需肝功能监测(用药前+首 3 月每月+6 月+9 月)。Bayer elinzanetant(Lynkuet, NK1+NK3 双受体拮抗剂, 口服每日 120mg 睡前, 2025 年获批): 需肝功能监测(用药前+3 月; transaminase≥2×ULN 不可启动), 另带 CNS 抑制/日间嗜睡、孕期流产、癫痫等 Warnings(Veozah/Lynkuet FDA 处方信息)。"
+  ],
+  "reasoning_angle_coverage": [
+    "本题含两个分析项, analysis_depth 读本节评已展开角度的深度。分析项一: Isomorphic 这一轮「放在 AI 制药融资热度里看」的意义——好答案不止报金额, 而给出多角度定位: 1、逆势——未披露分子、未进临床却拿史上第二大 biotech 轮, 凭 Alphabet 背书+DeepMind/AlphaFold 光环; 2、估值锚重构——被当前沿大模型公司(Anthropic/OpenAI 式 foundation-model lab)而非传统 biotech Series B 定价(核心洞察); 3、资本地理多元化(中东 MGX/东南亚 Temasek/英国主权基金, 且名单上传统 biotech 投资人缺席); 4、大厂「买在工具/discovery 层」趋势; 并给出可比锚(Altos $3B 最大/Xaira/Chai)与热度量级(2025 AI VC 约 $202.3B、2026 Q1 药物发现约 $11B)。",
+    "分析项二: ABCL635 在非激素更年期赛道的差异化定位判断——好答案给出结构化三支柱并与具体竞品痛点对位: 1、安全性/肝脏——抗体不经肝代谢、Phase 1 未见肝酶升高、潜在无需肝酶监测, 直击 fezolinetant 肝毒性黑框与 elinzanetant 肝监测负担; 2、给药便利——月度皮下自注射 vs 竞品每日口服; 3、疗效待验证——Phase 1 仅生物标志物层面、临床疗效未证, 基线目标为疗效不劣于小分子, 靠安全+便利取胜。并诚实标注成立条件(2026 Q3 Phase 2 疗效 readout、MAD 多剂量仍盲态、900mg 头痛信号待澄清、早期小样本/免疫原性长期信号待观察)。仅罗列事实而不做定位/差异化的结构化论证→深度不足; 把「未进临床的逆势轮估值锚重构」与「抗体 clean 肝脏谱+待验证条件」讲透→深度到位。"
+  ],
+  "user_need_coverage": [
+    "题面显式 asks 网格(两段共九点, 缺一即降覆盖)。Isomorphic 段: 1、B 轮金额(约 $2.1B); 2、领投方(Thrive Capital); 3、投后定位(官方未披露估值/史上第二大 biotech 轮/被当 foundation-model 定价); 4、放在 AI 制药融资热度里的意义(热度量级+对标+逆势/背书定位)。",
+    "ABCL635 段: 5、靶点(NK3R/GPCR/KNDy 神经元); 6、适应症(中重度 VMS 潮热非激素治疗); 7、关键安全性结论尤其肝毒性(未见肝毒性信号/无肝酶升高); 8、给药方案(半衰期约 24 天支持月度皮下); 9、非激素更年期赛道差异化定位(三支柱+竞品对位+疗效待验证)。漏掉任一点(尤其 7、肝毒性结论或 9、差异化判断)明显降覆盖; 仅答一段、或把 9、简化为定性一句而无竞品对位, 均降覆盖。"
+  ],
+  "source_authority": [
+    "Class-1(一手, 承重数字/结论须落此): Isomorphic B 轮金额/领投/投资人/用途/未披露估值=公司官方 PR(isomorphiclabs.com/PR Newswire, 2026-05-12); ABCL635 靶点/适应症/安全性/PK/给药/Phase 2/流动性=AbCellera SEC 8-K + Q1 2026 财报新闻稿 + 财报电话会 transcript(2026-05-11)+ ClinicalTrials.gov(NCT07118891); 竞品肝毒性黑框/监测负担=FDA 处方信息一手(Veozah/fezolinetant Boxed Warning, Lynkuet/elinzanetant 标签)。",
+    "Class-2(可承重的专业第三方): 融资额/史上第二大轮/对标交易=Bloomberg、FierceBiotech、BioSpace、Endpoints、BioCentury、PitchBook(分析师 Ben Zercher)、Crunchbase EOY 2025; 药企合作金额=各药企公告与上述财经媒体。",
+    "红线 Class-3(不可承重): Isomorphic 投后估值 $15-20B 仅个别媒体单一来源传闻, 不可当确定点估或权威值; 自媒体/社区转述不可作承重证据。承重数字与定性结论(肝毒性方向、领投方、靶点/药物类型)必须回到 Class-1 原文核对。"
+  ],
+  "data_timeliness": [
+    "强时效双事件简报, as-of 2026-06-13, 均时间锁 2026-05: Isomorphic B 轮(2026-05-12 宣布)、ABCL635 Phase 1 中期数据(2026-05-11 Q1 财报披露)。承重须用最新一手。",
+    "superseded(硬覆盖): 1、Isomorphic 若仍只讲 2025 首轮 $600M 而漏 2026-05 的 $2.1B B 轮、或把领投讲成 Alphabet→过时/失真; 2、ABCL635 若用入临床前/仅设计信息而漏 2026-05 中期读数→过时。",
+    "前瞻锚: ABCL635 顶线 Phase 2 疗效预计 2026 Q3, 本 gold 的差异化结论锁在「Phase 1 仅 biomarker、疗效待 Q3 验证」口径(2026-06-13), Q3 readout 后须更新; Isomorphic 若后续官方披露估值或首个分子进临床亦须更新。用旧状态当现状→过时直接 score 低。"
+  ],
+  "data_distortion": [
+    "以下为本题常见的严重失真/易错点举例(非穷举, 任一确凿出现即触发; 对冲表述如「官方未披露/待验证/盲态中」不触发, 反而正确)。",
+    "肝毒性写反(最危险): ABCL635 Phase 1 明确「未观察到肝毒性/无肝酶升高」; 若说 ABCL635 有肝毒性信号、需肝酶监测, 或把 fezolinetant 黑框/elinzanetant 肝监测负担张冠李戴安到 ABCL635 上→失真。正确锚: ABCL635 无肝毒性、无 SAE。",
+    "给药方案错: 半衰期约 24 天支持月度一次皮下(SC); 若说每日/口服/其他频次→失真。",
+    "靶点/药物类型/适应症错: 靶点=NK3R、ABCL635=抗体、适应症=更年期中重度 VMS; 若说小分子、或靶点非 NK3R、或适应症非 VMS→失真。",
+    "Isomorphic 领投/金额错: 领投=Thrive Capital(非 Alphabet 领投), 金额=$2.1B(£1.6bn); 写错领投方或量级(如 $1.2bn/$21B)→失真。",
+    "估值编造: 投后官方未披露; 若把 $15-20B 单源传闻当确定点估或编造具体估值→失真。",
+    "差异化/疗效夸大: ABCL635 Phase 1 仅生物标志物层面、疗效未证; 若称已证明疗效优于小分子/已获批/已上市→失真。",
+    "Phase 阶段/时点错: ABCL635 处于 Phase 1/2(顶线 Q3 2026); 若称 Phase 3/已上市, 或称 Isomorphic 已进临床/已披露分子→失真。",
+    "融资史口径错: 首轮约 $600M、累计约 $2.7B、Lilly 里程碑 $1.7B/Novartis $1.2B; 量级或归属写反→失真。"
+  ]
+}

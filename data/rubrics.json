@@ -1,0 +1,928 @@
+[
+  {
+    "id": "irab-001",
+    "rubrics": [
+      {
+        "key": "analysis_depth",
+        "weight": 3
+      },
+      {
+        "key": "actionable_signal",
+        "weight": 2
+      },
+      {
+        "key": "data_quality",
+        "weight": 2
+      },
+      {
+        "key": "user_need_coverage",
+        "weight": 2
+      },
+      {
+        "key": "data_timeliness",
+        "weight": 1
+      },
+      {
+        "key": "non_consensus_view",
+        "weight": 1
+      },
+      {
+        "key": "source_authority",
+        "weight": 1
+      },
+      {
+        "key": "data_distortion",
+        "weight": -1
+      }
+    ]
+  },
+  {
+    "id": "irab-002",
+    "rubrics": [
+      {
+        "key": "analysis_depth",
+        "weight": 3
+      },
+      {
+        "key": "concept_clarity",
+        "weight": 2
+      },
+      {
+        "key": "cross_subject_comparison",
+        "weight": 2
+      },
+      {
+        "key": "data_quality",
+        "weight": 2
+      },
+      {
+        "key": "data_timeliness",
+        "weight": 1
+      },
+      {
+        "key": "user_need_coverage",
+        "weight": 1
+      },
+      {
+        "key": "data_distortion",
+        "weight": -1
+      }
+    ]
+  },
+  {
+    "id": "irab-003",
+    "rubrics": [
+      {
+        "key": "data_quality",
+        "weight": 3
+      },
+      {
+        "key": "analysis_depth",
+        "weight": 2
+      },
+      {
+        "key": "data_timeliness",
+        "weight": 2
+      },
+      {
+        "key": "deliverable_compliance",
+        "weight": 1
+      },
+      {
+        "key": "source_authority",
+        "weight": 1
+      },
+      {
+        "key": "user_need_coverage",
+        "weight": 1
+      },
+      {
+        "key": "data_distortion",
+        "weight": -1
+      }
+    ]
+  },
+  {
+    "id": "irab-004",
+    "rubrics": [
+      {
+        "key": "data_quality",
+        "weight": 3
+      },
+      {
+        "key": "analysis_depth",
+        "weight": 2
+      },
+      {
+        "key": "calculation_correctness",
+        "weight": 2
+      },
+      {
+        "key": "cross_subject_comparison",
+        "weight": 2
+      },
+      {
+        "key": "deliverable_compliance",
+        "weight": 1
+      },
+      {
+        "key": "user_need_coverage",
+        "weight": 1
+      },
+      {
+        "key": "data_distortion",
+        "weight": -1
+      }
+    ]
+  },
+  {
+    "id": "irab-005",
+    "rubrics": [
+      {
+        "key": "data_quality",
+        "weight": 3
+      },
+      {
+        "key": "analysis_depth",
+        "weight": 2
+      },
+      {
+        "key": "key_driver_identification",
+        "weight": 2
+      },
+      {
+        "key": "data_timeliness",
+        "weight": 1
+      },
+      {
+        "key": "uncertainty_honesty",
+        "weight": 1
+      },
+      {
+        "key": "user_need_coverage",
+        "weight": 1
+      },
+      {
+        "key": "data_inconsistency",
+        "weight": -1
+      }
+    ]
+  },
+  {
+    "id": "irab-006",
+    "rubrics": [
+      {
+        "key": "data_quality",
+        "weight": 3
+      },
+      {
+        "key": "analysis_depth",
+        "weight": 2
+      },
+      {
+        "key": "cross_subject_comparison",
+        "weight": 2
+      },
+      {
+        "key": "data_completeness",
+        "weight": 2
+      },
+      {
+        "key": "source_authority",
+        "weight": 1
+      },
+      {
+        "key": "user_need_coverage",
+        "weight": 1
+      },
+      {
+        "key": "data_distortion",
+        "weight": -1
+      }
+    ]
+  },
+  {
+    "id": "irab-007",
+    "rubrics": [
+      {
+        "key": "data_quality",
+        "weight": 3
+      },
+      {
+        "key": "user_need_coverage",
+        "weight": 2
+      },
+      {
+        "key": "chart_fidelity",
+        "weight": 2
+      },
+      {
+        "key": "source_authority",
+        "weight": 1
+      },
+      {
+        "key": "deliverable_compliance",
+        "weight": 1
+      },
+      {
+        "key": "data_distortion",
+        "weight": -1
+      }
+    ]
+  },
+  {
+    "id": "irab-008",
+    "rubrics": [
+      {
+        "key": "chart_fidelity",
+        "weight": 3
+      },
+      {
+        "key": "data_quality",
+        "weight": 2
+      },
+      {
+        "key": "deliverable_compliance",
+        "weight": 2
+      },
+      {
+        "key": "data_timeliness",
+        "weight": 1
+      },
+      {
+        "key": "data_distortion",
+        "weight": -1
+      }
+    ]
+  },
+  {
+    "id": "irab-009",
+    "rubrics": [
+      {
+        "key": "analysis_depth",
+        "weight": 3
+      },
+      {
+        "key": "cross_subject_comparison",
+        "weight": 2
+      },
+      {
+        "key": "data_quality",
+        "weight": 2
+      },
+      {
+        "key": "key_driver_identification",
+        "weight": 2
+      },
+      {
+        "key": "calculation_correctness",
+        "weight": 1
+      },
+      {
+        "key": "data_timeliness",
+        "weight": 1
+      },
+      {
+        "key": "user_need_coverage",
+        "weight": 1
+      },
+      {
+        "key": "data_distortion",
+        "weight": -1
+      }
+    ]
+  },
+  {
+    "id": "irab-010",
+    "rubrics": [
+      {
+        "key": "data_quality",
+        "weight": 3
+      },
+      {
+        "key": "cross_subject_comparison",
+        "weight": 2
+      },
+      {
+        "key": "data_completeness",
+        "weight": 2
+      },
+      {
+        "key": "calculation_correctness",
+        "weight": 1
+      },
+      {
+        "key": "data_timeliness",
+        "weight": 1
+      },
+      {
+        "key": "user_need_coverage",
+        "weight": 1
+      },
+      {
+        "key": "data_distortion",
+        "weight": -2
+      },
+      {
+        "key": "data_inconsistency",
+        "weight": -1
+      }
+    ]
+  },
+  {
+    "id": "irab-011",
+    "rubrics": [
+      {
+        "key": "data_quality",
+        "weight": 3
+      },
+      {
+        "key": "data_completeness",
+        "weight": 2
+      },
+      {
+        "key": "analysis_depth",
+        "weight": 2
+      },
+      {
+        "key": "cross_subject_comparison",
+        "weight": 2
+      },
+      {
+        "key": "user_need_coverage",
+        "weight": 1
+      },
+      {
+        "key": "data_distortion",
+        "weight": -2
+      },
+      {
+        "key": "data_inconsistency",
+        "weight": -1
+      }
+    ]
+  },
+  {
+    "id": "irab-012",
+    "rubrics": [
+      {
+        "key": "formula_construction",
+        "weight": 3
+      },
+      {
+        "key": "data_quality",
+        "weight": 2
+      },
+      {
+        "key": "deliverable_compliance",
+        "weight": 2
+      },
+      {
+        "key": "data_timeliness",
+        "weight": 1
+      },
+      {
+        "key": "user_need_coverage",
+        "weight": 1
+      },
+      {
+        "key": "data_inconsistency",
+        "weight": -1
+      }
+    ]
+  },
+  {
+    "id": "irab-013",
+    "rubrics": [
+      {
+        "key": "data_quality",
+        "weight": 3
+      },
+      {
+        "key": "analysis_depth",
+        "weight": 2
+      },
+      {
+        "key": "answer_correctness",
+        "weight": 2
+      },
+      {
+        "key": "source_authority",
+        "weight": 1
+      },
+      {
+        "key": "user_need_coverage",
+        "weight": 1
+      },
+      {
+        "key": "data_distortion",
+        "weight": -2
+      }
+    ]
+  },
+  {
+    "id": "irab-014",
+    "rubrics": [
+      {
+        "key": "analysis_depth",
+        "weight": 3
+      },
+      {
+        "key": "data_quality",
+        "weight": 2
+      },
+      {
+        "key": "key_driver_identification",
+        "weight": 2
+      },
+      {
+        "key": "actionable_signal",
+        "weight": 1
+      },
+      {
+        "key": "source_authority",
+        "weight": 1
+      },
+      {
+        "key": "data_timeliness",
+        "weight": 1
+      },
+      {
+        "key": "data_distortion",
+        "weight": -1
+      },
+      {
+        "key": "data_inconsistency",
+        "weight": -1
+      }
+    ]
+  },
+  {
+    "id": "irab-015",
+    "rubrics": [
+      {
+        "key": "data_completeness",
+        "weight": 3
+      },
+      {
+        "key": "data_quality",
+        "weight": 2
+      },
+      {
+        "key": "calculation_correctness",
+        "weight": 2
+      },
+      {
+        "key": "user_need_coverage",
+        "weight": 1
+      },
+      {
+        "key": "data_timeliness",
+        "weight": 1
+      },
+      {
+        "key": "deliverable_compliance",
+        "weight": 1
+      },
+      {
+        "key": "data_distortion",
+        "weight": -2
+      }
+    ]
+  },
+  {
+    "id": "irab-016",
+    "rubrics": [
+      {
+        "key": "data_quality",
+        "weight": 3
+      },
+      {
+        "key": "analysis_depth",
+        "weight": 2
+      },
+      {
+        "key": "user_need_coverage",
+        "weight": 2
+      },
+      {
+        "key": "data_timeliness",
+        "weight": 1
+      },
+      {
+        "key": "source_authority",
+        "weight": 1
+      },
+      {
+        "key": "data_distortion",
+        "weight": -1
+      }
+    ]
+  },
+  {
+    "id": "irab-017",
+    "rubrics": [
+      {
+        "key": "analysis_depth",
+        "weight": 3
+      },
+      {
+        "key": "data_quality",
+        "weight": 2
+      },
+      {
+        "key": "reasoning_angle_coverage",
+        "weight": 2
+      },
+      {
+        "key": "data_timeliness",
+        "weight": 1
+      },
+      {
+        "key": "source_authority",
+        "weight": 1
+      },
+      {
+        "key": "user_need_coverage",
+        "weight": 1
+      },
+      {
+        "key": "data_inconsistency",
+        "weight": -1
+      }
+    ]
+  },
+  {
+    "id": "irab-018",
+    "rubrics": [
+      {
+        "key": "analysis_depth",
+        "weight": 3
+      },
+      {
+        "key": "analytical_autonomy",
+        "weight": 2
+      },
+      {
+        "key": "cross_subject_comparison",
+        "weight": 2
+      },
+      {
+        "key": "data_quality",
+        "weight": 2
+      },
+      {
+        "key": "source_authority",
+        "weight": 1
+      },
+      {
+        "key": "user_need_coverage",
+        "weight": 1
+      },
+      {
+        "key": "data_distortion",
+        "weight": -1
+      }
+    ]
+  },
+  {
+    "id": "irab-019",
+    "rubrics": [
+      {
+        "key": "data_quality",
+        "weight": 3
+      },
+      {
+        "key": "chart_fidelity",
+        "weight": 2
+      },
+      {
+        "key": "cross_subject_comparison",
+        "weight": 2
+      },
+      {
+        "key": "deliverable_compliance",
+        "weight": 2
+      },
+      {
+        "key": "data_timeliness",
+        "weight": 1
+      },
+      {
+        "key": "user_need_coverage",
+        "weight": 1
+      },
+      {
+        "key": "data_inconsistency",
+        "weight": -1
+      }
+    ]
+  },
+  {
+    "id": "irab-020",
+    "rubrics": [
+      {
+        "key": "analysis_depth",
+        "weight": 3
+      },
+      {
+        "key": "reasoning_angle_coverage",
+        "weight": 2
+      },
+      {
+        "key": "data_quality",
+        "weight": 2
+      },
+      {
+        "key": "data_completeness",
+        "weight": 2
+      },
+      {
+        "key": "data_timeliness",
+        "weight": 1
+      },
+      {
+        "key": "source_authority",
+        "weight": 1
+      },
+      {
+        "key": "user_need_coverage",
+        "weight": 1
+      },
+      {
+        "key": "data_distortion",
+        "weight": -1
+      }
+    ]
+  },
+  {
+    "id": "irab-021",
+    "rubrics": [
+      {
+        "key": "calculation_correctness",
+        "weight": 3
+      },
+      {
+        "key": "data_quality",
+        "weight": 2
+      },
+      {
+        "key": "key_driver_identification",
+        "weight": 2
+      },
+      {
+        "key": "analysis_depth",
+        "weight": 1
+      },
+      {
+        "key": "user_need_coverage",
+        "weight": 1
+      },
+      {
+        "key": "data_inconsistency",
+        "weight": -1
+      }
+    ]
+  },
+  {
+    "id": "irab-022",
+    "rubrics": [
+      {
+        "key": "data_quality",
+        "weight": 3
+      },
+      {
+        "key": "calculation_correctness",
+        "weight": 2
+      },
+      {
+        "key": "analysis_depth",
+        "weight": 2
+      },
+      {
+        "key": "user_need_coverage",
+        "weight": 1
+      },
+      {
+        "key": "data_timeliness",
+        "weight": 1
+      },
+      {
+        "key": "deliverable_compliance",
+        "weight": 1
+      },
+      {
+        "key": "data_distortion",
+        "weight": -2
+      },
+      {
+        "key": "data_inconsistency",
+        "weight": -1
+      }
+    ]
+  },
+  {
+    "id": "irab-023",
+    "rubrics": [
+      {
+        "key": "data_quality",
+        "weight": 3
+      },
+      {
+        "key": "data_completeness",
+        "weight": 2
+      },
+      {
+        "key": "data_timeliness",
+        "weight": 1
+      },
+      {
+        "key": "data_distortion",
+        "weight": -1
+      }
+    ]
+  },
+  {
+    "id": "irab-024",
+    "rubrics": [
+      {
+        "key": "data_quality",
+        "weight": 3
+      },
+      {
+        "key": "data_completeness",
+        "weight": 2
+      },
+      {
+        "key": "data_timeliness",
+        "weight": 1
+      },
+      {
+        "key": "deliverable_compliance",
+        "weight": 1
+      },
+      {
+        "key": "data_distortion",
+        "weight": -1
+      }
+    ]
+  },
+  {
+    "id": "irab-025",
+    "rubrics": [
+      {
+        "key": "data_quality",
+        "weight": 3
+      },
+      {
+        "key": "reasoning_angle_coverage",
+        "weight": 2
+      },
+      {
+        "key": "analysis_depth",
+        "weight": 2
+      },
+      {
+        "key": "user_need_coverage",
+        "weight": 1
+      },
+      {
+        "key": "calculation_correctness",
+        "weight": 1
+      },
+      {
+        "key": "data_distortion",
+        "weight": -2
+      }
+    ]
+  },
+  {
+    "id": "irab-026",
+    "rubrics": [
+      {
+        "key": "data_quality",
+        "weight": 3
+      },
+      {
+        "key": "data_completeness",
+        "weight": 2
+      },
+      {
+        "key": "source_authority",
+        "weight": 1
+      },
+      {
+        "key": "data_distortion",
+        "weight": -1
+      }
+    ]
+  },
+  {
+    "id": "irab-027",
+    "rubrics": [
+      {
+        "key": "answer_correctness",
+        "weight": 3
+      },
+      {
+        "key": "data_quality",
+        "weight": 2
+      },
+      {
+        "key": "calculation_correctness",
+        "weight": 2
+      },
+      {
+        "key": "analysis_depth",
+        "weight": 2
+      },
+      {
+        "key": "data_timeliness",
+        "weight": 1
+      },
+      {
+        "key": "data_distortion",
+        "weight": -1
+      }
+    ]
+  },
+  {
+    "id": "irab-028",
+    "rubrics": [
+      {
+        "key": "skill_executability",
+        "weight": 3
+      },
+      {
+        "key": "data_quality",
+        "weight": 2
+      },
+      {
+        "key": "deliverable_compliance",
+        "weight": 2
+      },
+      {
+        "key": "data_timeliness",
+        "weight": 1
+      },
+      {
+        "key": "user_need_coverage",
+        "weight": 1
+      },
+      {
+        "key": "data_distortion",
+        "weight": -1
+      }
+    ]
+  },
+  {
+    "id": "irab-029",
+    "rubrics": [
+      {
+        "key": "answer_correctness",
+        "weight": 3
+      },
+      {
+        "key": "data_quality",
+        "weight": 2
+      },
+      {
+        "key": "data_timeliness",
+        "weight": 1
+      },
+      {
+        "key": "source_authority",
+        "weight": 1
+      },
+      {
+        "key": "user_need_coverage",
+        "weight": 1
+      },
+      {
+        "key": "data_distortion",
+        "weight": -1
+      }
+    ]
+  },
+  {
+    "id": "irab-030",
+    "rubrics": [
+      {
+        "key": "answer_correctness",
+        "weight": 3
+      },
+      {
+        "key": "data_quality",
+        "weight": 2
+      },
+      {
+        "key": "source_authority",
+        "weight": 1
+      },
+      {
+        "key": "data_distortion",
+        "weight": -1
+      }
+    ]
+  }
+]
